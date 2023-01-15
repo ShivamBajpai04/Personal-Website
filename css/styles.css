@@ -1,0 +1,55 @@
+body{
+    background-color: white;
+    text-align: center;
+    margin: 0px;
+}
+.top-container{
+    position: relative;
+    background-color: aliceblue;
+    padding-top:100px;
+}
+.Intro{
+    margin-top:0;
+    display:inline-block;
+}
+h1{
+    color: black;
+    margin:0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin: 0;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+}
+.ucloud{
+    position: absolute;
+    right: 300px;
+    top:50px
+}
+.dcloud{
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+}
+.pro{
+    display:inline;
+    text-decoration: underline;
+}
+p{
+    font-family: 'Merriweather', serif;
+}
+.profile{
+    padding-top: 50px;
+}
+.sing{
+    max-width: 50%;
+    max-height: 50%;
+}
